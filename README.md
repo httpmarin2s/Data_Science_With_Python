@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você
 ## 🗂️ **Estrutura do Repositório**
 
 ### 🔍 **1. Introduction to Python**
-- [Section 1](./introduction-python/section-1)  
+- [Section 1](./introduction-python/section-)  
   *Conteúdo: variáveis, tipos de dados, estruturas de controle, etc.*
 - [Section 2](./introduction-python/section-2)  
   *Conteúdo: funções, módulos, introdução ao NumPy.*
