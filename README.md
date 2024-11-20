@@ -5,7 +5,7 @@ Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você
 ## 🗂️ **Estrutura do Repositório**
 
 ### 🔍 **1. Introduction to Python**
-- [Section 1](Introduction to Python/Section 001)  
+- [Section 1](https://github.com/httpmarin2s/Data_Science_With_Python/tree/d3f7ab161f22138ccd01ea450b689ed1bcad5c90/Introduction%20to%20Python)  
   *Conteúdo: variáveis, tipos de dados, estruturas de controle, etc.*
 - [Section 2](./introduction-python/section-2)  
   *Conteúdo: funções, módulos, introdução ao NumPy.*
