@@ -1,4 +1,4 @@
-# 📊 **Data Science Course - Data Camp **
+# 📊**Data Science Course - Data Camp**
 
 Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você encontrará todo o material, exercícios e projetos que desenvolvi ao longo do aprendizado. Este repositório está organizado em seções e subpastas para facilitar a navegação.
 
