@@ -1,8 +1,7 @@
-# Section 002
-Pasta para os códigos da seção 002.
-
-- [x]  **Código1.** Crie uma lista com 5 números inteiros e calcule a soma de todos os elementos.
-- [x]  **Código2.** Dada a lista `[3, 5, 7, 9, 11]`, adicione o número 13 ao final da lista e remova o número 5.
-- [x]  **Código3.** Escreva um programa que peça ao usuário para inserir 5 números. Adicione esses números a uma lista e depois imprima a lista em ordem crescente.
-- [x]  **Código4.** Crie uma lista contendo as palavras `["maçã", "banana", "laranja"]`. Substitua a palavra `"banana"` por `"uva"`.
-- [x]  **Código5.** Escreva um programa que encontre o maior e o menor número em uma lista fornecida pelo usuário.
+# Section 001
+Pasta para os códigos da seção 001.
+- [x]  **Código 1.** Escreva um programa que receba dois números do usuário e imprima a soma, subtração, multiplicação e divisão deles.
+- [x]  **Código 2.** Crie uma variável para armazenar seu nome e outra para sua idade. Imprima uma mensagem no formato: Olá, meu nome é [nome] e eu tenho [idade] anos."`
+- [x]  **Código 3.** Escreva um programa que verifique se um número fornecido pelo usuário é par ou ímpar.
+- [x]  **Código 4.** Escreva um laço que imprime os números de 1 a 10.
+- [x]  **Código 5.** Crie um programa que receba uma palavra do usuário e imprima cada letra da palavra separadamente usando um laço `for`.
