@@ -1,4 +1,4 @@
-# Section 002
+# Section 004
 Pasta para os códigos da seção 004.
 
 - [ ]  **Código 1.** Crie um array NumPy com os números de 1 a 10.
