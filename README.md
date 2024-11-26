@@ -11,7 +11,7 @@ Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você
   *5 Exercícios relacionados com Lista em Python*
 - [Section 3](https://github.com/httpmarin2s/Data_Science_With_Python/tree/ab1402590e9421b06f542c2a38f4451cfa56ad24/Introduction%20to%20Python/Section%20003)
   *5 exercícios relacionados com Funções e Pacotes em Python*
- -[Section 4](https://github.com/httpmarin2s/Data_Science_With_Python/tree/44d8176539de0ca5c4d06392abf8c14b4ea84bb3/Introduction%20to%20Python/Section%20004%20)
+- [Section 4](https://github.com/httpmarin2s/Data_Science_With_Python/tree/44d8176539de0ca5c4d06392abf8c14b4ea84bb3/Introduction%20to%20Python/Section%20004%20)
   *15 exercícios relacionados com Numpy*
 
 ## 📂 **Como Navegar**
