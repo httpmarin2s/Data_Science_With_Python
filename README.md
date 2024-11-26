@@ -9,6 +9,8 @@ Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você
   *5 Exercícios com o Básico de Python*
 - [Section 2](https://github.com/httpmarin2s/Data_Science_With_Python/tree/1401839d2b8fcee2f4f1dba2fa4d312d5564386e/Introduction%20to%20Python/Section%20002%20)  
   *5 Exercícios relacionados com Lista em Python*
+- [Section 3](Introduction to Python/Section 003(https://github.com/httpmarin2s/Data_Science_With_Python/tree/ab1402590e9421b06f542c2a38f4451cfa56ad24/Introduction%20to%20Python/Section%20003)
+- *5 exercícios relacionados com Funções e Pacotes em Python*
 
 ## 📂 **Como Navegar**
 Cada seção contém:
