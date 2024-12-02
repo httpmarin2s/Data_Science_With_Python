@@ -22,8 +22,9 @@ Cada seção contém:
 
 Clique em uma seção acima para explorar os conteúdos diretamente! 😄
 
-## 🌟 **Objetivo do Curso**
-Este curso visa construir uma base sólida em Ciência de Dados, desde manipulação e análise de dados até a aplicação de algoritmos de aprendizado de máquina.
+## 🌟 **Projects**
+- Project 001: [INVESTIGATING NETFLIX MOVIES](https://github.com/httpmarin2s/Data_Science_With_Python/tree/efd4096ccfa2204f3b14bc132e94837a856d8eae/PROJECT%3A%20INVESTIGATING%20NETFLIX%20MOVIES%20)
+- Project 001: [Medium Link]()
 
 ---
 
