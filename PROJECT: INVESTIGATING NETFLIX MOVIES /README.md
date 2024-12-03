@@ -29,11 +29,10 @@ The dataset includes the following columns:
 
 The goal of this analysis is to extract insights about movies from the 1990s by exploring their characteristics, such as:
 
-1. **Number of Movies**: How many 1990s movies are in the dataset?
-2. **Popular Directors and Actors**: Which directors and actors contributed to 1990s movies?
-3. **Country of Origin**: Which countries produced the most movies in this decade?
-4. **Duration Analysis**: What's the average duration of movies released in the 1990s?
-5. **Genres and Descriptions**: Are there any trends in movie descriptions?
+1. What was the most frequent movie duration in the 1990s? Save an approximate answer as an integer called duration (use 1990 as the decade's start year).
+A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
+
+2. A movie is considered short if it is less than 90 minutes. Count the number of short action movies released in the 1990s and save this integer as short_movie_count.
 
 ---
 
