@@ -16,6 +16,8 @@ Clique em uma seção acima para explorar os conteúdos diretamente! 😄
 - [Section 4](https://github.com/httpmarin2s/Data_Science_With_Python/tree/44d8176539de0ca5c4d06392abf8c14b4ea84bb3/Introduction%20to%20Python/Section%20004%20)
 -  15 exercícios relacionados com Numpy*
 
+---
+
 ## 📂 *Fundamentos de Python 2*
 - [Section1]
 - 10 questões de Python básico 
