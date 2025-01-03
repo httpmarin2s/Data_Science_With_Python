@@ -22,17 +22,18 @@ Clique em uma seção acima para explorar os conteúdos diretamente! 😄
 
 ---
 
-## 🌟 **Projetos  Análise e Manipulação de Dados **
+## 🌟 *Projetos  Análise e Manipulação de Dados*
 - Project 001: [INVESTIGATING NETFLIX MOVIES](https://github.com/httpmarin2s/Data_Science_With_Python/tree/efd4096ccfa2204f3b14bc132e94837a856d8eae/PROJECT%3A%20INVESTIGATING%20NETFLIX%20MOVIES%20)
 - Project 001: [Medium Link]()
 
 ---
 
-## 🌟 **Projetos de Ciência de Dados **
+## 🌟 *Projetos de Ciência de Dados*
 
 ### 📢 **Observação**
 Caso encontre algum problema ou tenha sugestões, sinta-se à vontade para abrir uma *issue* ou enviar um *pull request*.
 
 ---
 
-**✨ Obrigado por visitar! Feliz aprendizado!** 😄
+**✨ Obrigado por visitar! 
+Feliz aprendizado!** 😄
