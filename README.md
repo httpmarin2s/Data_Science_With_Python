@@ -4,9 +4,9 @@ Bem-vindo ao repositório do meu curso de **Ciência de Dados**! 🚀 Aqui você
 
 Clique em uma seção acima para explorar os conteúdos diretamente! 😄
 
-## 🗂️ *Exercícios práticos (Python)*
+## 🗂️*Exercícios práticos (Python)*
 
-### 🔍 *Introduction to Python
+### 🔍*Introduction to Python*
 - [Section 1](https://github.com/httpmarin2s/Data_Science_With_Python/tree/d3f7ab161f22138ccd01ea450b689ed1bcad5c90/Introduction%20to%20Python)
 - 5 Exercícios com o Básico de Python*
 - [Section 2](https://github.com/httpmarin2s/Data_Science_With_Python/tree/1401839d2b8fcee2f4f1dba2fa4d312d5564386e/Introduction%20to%20Python/Section%20002%20)  
@@ -19,13 +19,13 @@ Clique em uma seção acima para explorar os conteúdos diretamente! 😄
 - 10 exercícios básicos de python para revisão
 ---
 
-## 📂 *Linear Algebra and Maths *
+## 📂*Linear Algebra and Maths*
 - [Section1]
 - 10 questões de Python básico 
 
 ---
 
-## 🗂️ *Projetos *
+## 🗂️*Projetos*
 
 ## 🌟 *Projetos de Análise e Manipulação de Dados*
 ### Project 001 [Investigating Netiflix Movies] 
